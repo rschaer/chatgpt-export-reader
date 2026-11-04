@@ -1,4 +1,4 @@
-# ChatGPT Export Reader + Project Recovery
+# ChatGPT Export Reader + Project and File Recovery
 
 A local recovery tool for ChatGPT data exports.
 
